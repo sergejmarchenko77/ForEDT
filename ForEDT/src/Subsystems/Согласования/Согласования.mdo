@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f8f05fdd-b63a-462d-96d7-0829e504a429">
+  <name>Согласования</name>
+  <synonym>
+    <key>ru</key>
+    <value>Согласования</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Constant.ИспользоватьСогласования</content>
+  <content>Task.Задача</content>
+  <content>BusinessProcess.Согласование</content>
+</mdclass:Subsystem>

@@ -73,6 +73,7 @@
   <subsystems>Subsystem.Продажи</subsystems>
   <subsystems>Subsystem.Финансы</subsystems>
   <subsystems>Subsystem.ТоварныеЗапасы</subsystems>
+  <subsystems>Subsystem.Согласования</subsystems>
   <styleItems>StyleItem.ЦветТекстаСущественныхИзмененийДанных</styleItems>
   <styleItems>StyleItem.ЦветТекстаНормальногоСостояния</styleItems>
   <styleItems>StyleItem.ЦветТекстаОшибочногоСостояния</styleItems>
@@ -141,6 +142,7 @@
   <functionalOptions>FunctionalOption.РаботаСТорговымОборудованием</functionalOptions>
   <functionalOptions>FunctionalOption.УчетПоСкладам</functionalOptions>
   <functionalOptions>FunctionalOption.ВалютныйУчет</functionalOptions>
+  <functionalOptions>FunctionalOption.ИспользоватьСогласования</functionalOptions>
   <functionalOptionsParameters>FunctionalOptionsParameter.Организация</functionalOptionsParameters>
   <commonCommands>CommonCommand.УстановитьСканерШтрихкодов</commonCommands>
   <commonCommands>CommonCommand.НастроитьСканерШтрихКодов</commonCommands>
@@ -194,6 +196,7 @@
   <constants>Constant.ИспользоватьСетьПередачиДанных</constants>
   <constants>Constant.ИспользоватьСпутники</constants>
   <constants>Constant.ВалютаУчета</constants>
+  <constants>Constant.ИспользоватьСогласования</constants>
   <commonForms>CommonForm.ОбщиеНастройки</commonForms>
   <commonForms>CommonForm.НастройкиМобильногоУстройства</commonForms>
   <commonForms>CommonForm.НастройкаПочты</commonForms>
@@ -266,4 +269,6 @@
   <accumulationRegisters>AccumulationRegister.Взаиморасчеты</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.Продажи</accumulationRegisters>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ВидыХарактеристик</chartsOfCharacteristicTypes>
+  <businessProcesses>BusinessProcess.Согласование</businessProcesses>
+  <tasks>Task.Задача</tasks>
 </mdclass:Configuration>
