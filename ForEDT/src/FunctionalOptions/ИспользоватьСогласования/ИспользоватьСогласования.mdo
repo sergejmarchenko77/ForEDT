@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:FunctionalOption xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3a8d2f31-16ba-4151-8ead-42e863fc7173">
+  <name>ИспользоватьСогласования</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать согласования</value>
+  </synonym>
+  <location>Constant.ИспользоватьСогласования</location>
+  <privilegedGetMode>true</privilegedGetMode>
+  <content>Subsystem.Согласования</content>
+</mdclass:FunctionalOption>

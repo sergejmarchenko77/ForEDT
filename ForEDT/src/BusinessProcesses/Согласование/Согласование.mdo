@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:BusinessProcess xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="33b5baf6-99e3-4223-a072-6101e04459c4">
+  <producedTypes>
+    <objectType typeId="8aa2da84-fb89-46a7-97b8-779d0ece1586" valueTypeId="c560d0c8-c27e-4061-b008-cdbaf5946683"/>
+    <refType typeId="e3e413f0-8659-43d0-a967-11b70b26c880" valueTypeId="ea24ea40-03e9-4cf8-8eb9-671617ac6fee"/>
+    <selectionType typeId="73337b0c-5b89-4101-9fa7-a40a77879123" valueTypeId="362ac2f7-e417-442b-89de-1bf3516a6f3e"/>
+    <listType typeId="124ec752-f46b-4af8-9437-ebf07bb292cd" valueTypeId="2ca47c93-5a9a-49e3-ba72-5201f95c55b0"/>
+    <managerType typeId="c91ab6c7-aacb-4286-8e09-039b83cf60cd" valueTypeId="f7307c52-1266-4d80-9455-7c109222db05"/>
+    <routePointRef typeId="caf19dc2-942f-4e77-9860-030595edeff6" valueTypeId="92cd3533-0d11-4849-9a96-90557ec8171b"/>
+  </producedTypes>
+  <name>Согласование</name>
+  <synonym>
+    <key>ru</key>
+    <value>Согласование</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>BusinessProcess.Согласование.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <numberPeriodicity>Year</numberPeriodicity>
+  <task>Task.Задача</task>
+  <createTaskInPrivilegedMode>true</createTaskInPrivilegedMode>
+</mdclass:BusinessProcess>
