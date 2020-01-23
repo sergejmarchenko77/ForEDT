@@ -3332,4 +3332,15 @@
 			<value>true</value>
 		</right>
 	</object>
+	<object>
+		<name>Constant.ИспользоватьСогласования</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+	</object>
 </Rights>

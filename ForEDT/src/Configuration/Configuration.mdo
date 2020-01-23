@@ -194,6 +194,7 @@
   <constants>Constant.ИспользоватьСетьПередачиДанных</constants>
   <constants>Constant.ИспользоватьСпутники</constants>
   <constants>Constant.ВалютаУчета</constants>
+  <constants>Constant.ИспользоватьСогласования</constants>
   <commonForms>CommonForm.ОбщиеНастройки</commonForms>
   <commonForms>CommonForm.НастройкиМобильногоУстройства</commonForms>
   <commonForms>CommonForm.НастройкаПочты</commonForms>

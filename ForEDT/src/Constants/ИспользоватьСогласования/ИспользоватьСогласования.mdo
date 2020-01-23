@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="85461058-2f4a-4d04-be38-afb7d1c81e6a">
+  <producedTypes>
+    <managerType typeId="48d938a8-29d5-49b5-9037-b60ccda12614" valueTypeId="0294cb4e-e792-4164-bc82-0d80577964ed"/>
+    <valueManagerType typeId="fc57978e-fa6b-440b-b153-6ac37aa8a75d" valueTypeId="8c044333-9afa-4da7-a708-cd2de61a035d"/>
+    <valueKeyType typeId="7596d952-ca1c-4f6d-a8cc-42548ad5d7cd" valueTypeId="9bf0a4d5-2dd7-45af-a08f-512c97ef71e8"/>
+  </producedTypes>
+  <name>ИспользоватьСогласования</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать согласования</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
