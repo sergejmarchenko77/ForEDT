@@ -5,6 +5,7 @@
     <subsystems>Subsystem.Продажи</subsystems>
     <subsystems>Subsystem.ТоварныеЗапасы</subsystems>
     <subsystems>Subsystem.Финансы</subsystems>
+    <subsystems>Subsystem.Согласования</subsystems>
     <subsystems>Subsystem.Предприятие</subsystems>
   </subsystemsOrder>
 </cmi:CommandInterface>
